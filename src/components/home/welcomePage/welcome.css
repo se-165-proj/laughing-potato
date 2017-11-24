@@ -1,0 +1,13 @@
+#Test {
+  /*//background-color: black;
+  //background-image: url("hotel.jpeg");*/
+    //background-image: url("hotel1.jpg");
+  background-position: center center;
+  background-size: cover;
+
+
+}
+
+#ListingSpan {
+  width: 100%;
+}

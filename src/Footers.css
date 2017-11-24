@@ -1,0 +1,72 @@
+#C1 {
+//  background-color: red;
+  display: inline-block;
+  margin-left: 33%;
+    text-align: center;
+}
+
+#C2 {
+  //background-color: green;
+  display: inline-block;
+    text-align: center;
+}
+
+#C3 {
+  //background-color: blue;
+  display: inline-block;
+  text-align: center;
+
+}
+
+#C1 #C2 #C3 {
+//float: left;
+width: 100%;
+}
+
+#C1 .row ul li a {
+text-align: left;
+}
+
+#Footer-whole {
+//background-color: black;
+box-shadow: 0px 500px 0px 500px #000;
+}
+
+#t {
+  text-align: left;
+}
+
+.row h3 {
+width: 100%;
+color: black;
+}
+
+.row a {
+color: black;
+}
+
+#C1 li {
+list-style-type: none;
+}
+
+#C2 li {
+list-style-type: none;
+}
+
+#C3 li {
+list-style-type: none;
+}
+
+#footer-bottom {
+text-align: center;
+background-color: black;
+//box-shadow: 0px 500px 0px 500px #000;
+}
+
+#Wrapper {
+background-color: #D6D4DB;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+display: inline-table;
+}

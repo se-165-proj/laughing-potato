@@ -1,0 +1,15 @@
+.label{
+  font-weight: bold;
+  text-align: left;
+    float:left;
+
+}
+
+#test1 {
+background-color: #ccc;
+}
+
+.form-group label {
+  text-align: left;
+
+}

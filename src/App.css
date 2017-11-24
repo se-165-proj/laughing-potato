@@ -1,0 +1,13 @@
+#Test {
+
+  //background-image: url("hotel.jpeg");
+    //background-image: url("hotel1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #eeeeee;
+  /*position: fixed;
+  top: 0;
+  height: 500px;*/
+
+}
